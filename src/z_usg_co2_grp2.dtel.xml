@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_USG_CO2_GRP2</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <HEADLEN>20</HEADLEN>
+    <SCRLEN1>03</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>18</SCRLEN3>
+    <DDTEXT>CO2 Ausstoß</DDTEXT>
+    <REPTEXT>CO2 Ausstoß pro km</REPTEXT>
+    <SCRTEXT_S>CO2</SCRTEXT_S>
+    <SCRTEXT_M>CO2 AST</SCRTEXT_M>
+    <SCRTEXT_L>CO2 Ausstoß pro km</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
